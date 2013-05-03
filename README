@@ -1,0 +1,7 @@
+Running the program:
+python server1.py -m <multicast IPv4 address> -p <port number> -n <name of chatter>
+
+
+Each program will receive inputs on command line and send the same to other chat partners.
+When the program receives the input from other chat partners, it should display the same on
+console along with its id.
